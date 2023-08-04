@@ -1,0 +1,42 @@
+{
+    "count": 5,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "58cd48d1-9f49-4e19-a667-3ae2ff887543",
+            "collectionId": "Spanish",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Spanish/58cd48d1-9f49-4e19-a667-3ae2ff887543_sp_Male.mp4"
+        },
+        {
+            "id": "3efeec3f-9406-41f0-8783-f65857c099d0",
+            "collectionId": "Spanish",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Spanish/3efeec3f-9406-41f0-8783-f65857c099d0_sp_Male.mp4"
+        },
+        {
+            "id": "248052dd-0c5b-4ff5-931f-cf1182a9bd0d",
+            "collectionId": "Spanish",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Spanish/248052dd-0c5b-4ff5-931f-cf1182a9bd0d_sp_Female.mp4"
+        },
+        {
+            "id": "71f50340-0261-4c4a-9123-7f1ee8456f8b",
+            "collectionId": "Spanish",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Spanish/71f50340-0261-4c4a-9123-7f1ee8456f8b_sp_Female.mp4"
+        },
+        {
+            "id": "0c9f7595-24fb-4440-b8e9-2c00be8480c3",
+            "collectionId": "Spanish",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Spanish/0c9f7595-24fb-4440-b8e9-2c00be8480c3_sp_Male.mp4"
+        }
+    ]
+}
